@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# DevOpsLab_22011102051**We belong to School of Engineering.**
-=======
-# DevOpsLab_22011102051**Hi, We are from Shiv Nadar University Chennaicheckout -b update-readme*
->>>>>>> update-readme
+This is the final version that combines both changes:
+- Feature-login change: "This is the feature-login change I made."
+- Main branch change: "This is the main branch change
